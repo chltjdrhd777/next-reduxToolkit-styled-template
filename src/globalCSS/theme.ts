@@ -19,6 +19,7 @@ const colors = {
   grayTwo: "#E5E5E5",
   grayThree: "#999999",
   grayFour: "#737373",
+  blackZero: "#202020",
   blackOne: "#1c1c1c",
   blackTwo: "#111",
 } as const;
